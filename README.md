@@ -128,7 +128,3 @@ Detailed documentation including system architecture, implementation details, an
 Tran Anh Toan
 Trinh Minh Viet
 Tran Le Long Vu
-
-- Built for network monitoring and security purposes
-- Utilizes TShark for professional-grade packet analysis
-- Designed for Raspberry Pi platform
