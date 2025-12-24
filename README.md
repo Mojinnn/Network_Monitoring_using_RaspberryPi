@@ -125,7 +125,7 @@ Detailed documentation including system architecture, implementation details, an
 
 ## Demo
 
-We have a demo video uploaded on YouTube: [https://www.youtube.com/watch?v=THcwg60FWyQ](https://www.youtube.com/watch?v=THcwg60FWyQ)
+We have a demo video uploaded on YouTube: [link](https://www.youtube.com/watch?v=THcwg60FWyQ)
 
 ## Author
 
